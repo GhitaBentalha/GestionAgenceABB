@@ -22,7 +22,7 @@ Select the first .jar folder then OK
 
 Re-do the same for the next .jar files untill u will have something like that :
 
-![Capture ](../images/capture.png)
+![Capture](./images/capture.png)
 
 Apply and Close
 
